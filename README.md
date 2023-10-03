@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is **Muhammad Azaria Widyadhana**.<br>
+
+Saya fresh graduate dari **Telkom University**<br>
+Portofolio ini saya buat sebagai wadah latihan untuk membuat portofolio dengan github dari [Dicoding](https://www.dicoding.com/).
+<br>
+
+Selama masa kuliah saya di **Telkom University** saya telah mengikuti banyak sekali kegiatan,<br>
+1. Saya menjadi asisten salah satu laboratorium di Fakultas Teknik Elektro yaitu **Cyber Physical System laborator**, yang mana laboratorium ini memiliki fokus riset di bidang **Internet of Things*(IOT) dan sebgai penyelenggara praktikum untuk matkul di prodi S1 Teknik Telekomunikasi yaitu praktikum **Jaringan Telekomunikasi**. Selama menjadi asisten di laboratorium CPS saya ditugaskan menjadi asisten praktikum yang mana bertugas untuk mengajar mahasiswa yang mengambil mata kuliah dan praktikum **Jaringan Telekomunikasi** serta membuat dan merevisi modul agar sesuai dengan update terbaru. Saya juga di amanatkan menjadi Koordinator Divisi Praktikum dan di amanatkan menjadi Koordinator Asisten Lab CPS.
 <!--
 **LordGarmadon/LordGarmadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
